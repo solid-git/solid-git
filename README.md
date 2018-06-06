@@ -1,6 +1,10 @@
 # solid-git
 Git running on the solid platform.
 
+## Standards for Consideration
+- https://mementoweb.org/guide/rfc/
+- https://www.infowebml.ws/rdf-owl/versionInfo.htm
+
 ## References
 
 ### Core 
