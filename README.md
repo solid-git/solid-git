@@ -27,3 +27,7 @@ Git running on the solid platform.
 ## Examples
 
 - https://ruben.verborgh.org/publications/vandersande_jod_2018/
+
+## Resources
+
+- https://www.slideshare.net/lysander07
