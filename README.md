@@ -1,5 +1,5 @@
 # solid-git
-Git running on the solid platform.
+Git running on the solid platform (version-controlled entities)
 
 ## Standards for Consideration
 - *HTTP Framework for Time-Based Access to Resource States -- Memento* https://mementoweb.org/guide/rfc/
