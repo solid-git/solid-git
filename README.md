@@ -30,6 +30,8 @@ Git running on the Solid platform (version-controlled entities)
 - *Toward sustainable publishing and querying of distributed Linked Data archives* <https://ruben.verborgh.org/publications/vandersande_jod_2018/>
 
 ## Examples
+- ALIKE: *Exploring the Evolution and Provenance of Git
+Versioned RDF Data <http://ceur-ws.org/Vol-1824/mepdaw_paper_2.pdf>
 - https://ruben.verborgh.org/publications/vandersande_jod_2018/
 - *Towards Lensfield: data management, processing and semantic publication
 for vernacular e-science* https://www.repository.cam.ac.uk/bitstream/handle/1810/223838/ieee-lensfield.pdf;jsessionid=4014ED9DDD27096812D5EC3A66E7EBDF?sequence=1
