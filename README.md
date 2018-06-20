@@ -11,8 +11,9 @@ Git running on the solid platform.
 - https://github.com/isomorphic-git/isomorphic-git
 - https://github.com/solid
 
-### Databasing / Storage
-- Consensus-based storage library?
+### Version Expressions
+- *Versioned Random-Access Triple Store* https://rdfostrich.github.io/article-demo/
+
 #### Frontend Querying
 - https://github.com/semantic-integration/hypergraphql
 
@@ -30,3 +31,9 @@ Git running on the solid platform.
 
 ## Resources
 - *Everything you always wanted to know about Semantic Web Technologies - but were afraid to ask* <https://www.slideshare.net/lysander07>
+
+
+## Advisors
+- Thomas Gegenhuber <http://www.thomas-gegenhuber.at/>
+- Joscha Jaeger <https://filmicweb.org/>
+- Olivier Aubert <https://www.olivieraubert.net/>
