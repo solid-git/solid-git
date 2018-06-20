@@ -12,6 +12,7 @@ Git running on the Solid platform (version-controlled entities)
 - https://github.com/solid
 
 ### Version Expressions
+- PATCH VCS: https://pijul.org/
 - *OSTRICH: Versioned Random-Access Triple Store* https://rdfostrich.github.io/article-demo/
 - *PROV: descriptions of entities/ activities producing/delivering/influencing objects*  https://www.w3.org/TR/prov-primer/
 - ~~*Datalad: Versioning for continuous integration workflows* http://www.datalad.org/~~ (too bulky)
