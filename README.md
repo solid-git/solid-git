@@ -13,6 +13,7 @@ Git running on the solid platform.
 
 ### Version Expressions
 - *Versioned Random-Access Triple Store* https://rdfostrich.github.io/article-demo/
+- *PROV: descriptions of entities/ activities producing/delivering/influencing objects*  https://www.w3.org/TR/prov-primer/
 
 #### Frontend Querying
 - https://github.com/semantic-integration/hypergraphql
