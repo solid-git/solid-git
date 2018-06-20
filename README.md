@@ -16,6 +16,7 @@ Git running on the Solid platform (version-controlled entities)
 - *OSTRICH: Versioned Random-Access Triple Store* https://rdfostrich.github.io/article-demo/
 - *PROV: descriptions of entities/ activities producing/delivering/influencing objects*  https://www.w3.org/TR/prov-primer/
 - ~~*Datalad: Versioning for continuous integration workflows* http://www.datalad.org/~~ (too bulky)
+
 ### Frontend Interfaces
 - https://github.com/semantic-integration/hypergraphql
 
@@ -30,10 +31,11 @@ Git running on the Solid platform (version-controlled entities)
 
 ## Examples
 - https://ruben.verborgh.org/publications/vandersande_jod_2018/
+- *Towards Lensfield: data management, processing and semantic publication
+for vernacular e-science* https://www.repository.cam.ac.uk/bitstream/handle/1810/223838/ieee-lensfield.pdf;jsessionid=4014ED9DDD27096812D5EC3A66E7EBDF?sequence=1
 
 ## Resources
 - *Everything you always wanted to know about Semantic Web Technologies - but were afraid to ask* <https://www.slideshare.net/lysander07>
-
 
 ## Advisors
 - Thomas Gegenhuber <http://www.thomas-gegenhuber.at/>
